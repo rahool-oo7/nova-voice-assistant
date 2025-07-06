@@ -9,7 +9,6 @@
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=for-the-badge&logo=python)](https://www.python.org/)
 [![Platform](https://img.shields.io/badge/Platform-Mac%2FLinux%20%7C%20Windows-blue?style=for-the-badge&logo=windows)]()
 [![GitHub Stars](https://img.shields.io/github/stars/ritesh-kmr7/nova-voice-assistant?style=for-the-badge)](https://github.com/rahool-oo7/nova-voice-assistant/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/ritesh-kmr7/nova-voice-assistant?style=for-the-badge)](https://github.com/rahool-oo7/nova-voice-assistant/fork)
 
 </div>
 
