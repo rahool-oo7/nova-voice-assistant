@@ -16,13 +16,14 @@
 
 ## ✨ Features
 
-🔹 Wake Word Activation: `"Nova"`
-🔹 Voice-controlled: Open websites, play music, ask for time/date
-🔹 📚 Wikipedia Search  
-🔹 😂 Tells random jokes  
-🔹 🎧 YouTube Music Playback  
-🔹 🔍 Google Search Integration  
-🔹 🌐 Works completely offline except search & YouTube
+- 🔹 **Wake Word Activation**: `"Nova"`  
+- 🔹 **Voice-controlled**: Open websites, play music, ask for time/date  
+- 🔹 📚 **Wikipedia Search**  
+- 🔹 😂 **Tells random jokes**  
+- 🔹 🎧 **YouTube Music Playback**  
+- 🔹 🔍 **Google Search Integration**  
+- 🔹 🌐 **Works completely offline (except search & YouTube)**  
+
 
 ---
 
