@@ -7,8 +7,8 @@
 
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=for-the-badge&logo=python)](https://www.python.org/)
 [![Platform](https://img.shields.io/badge/Platform-Mac%2FLinux%20%7C%20Windows-blue?style=for-the-badge&logo=windows)]()
-[![GitHub Stars](https://img.shields.io/github/stars/ritesh-kmr7/nova-voice-assistant?style=for-the-badge)](https://github.com/ritesh-kmr7/nova-voice-assistant/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/ritesh-kmr7/nova-voice-assistant?style=for-the-badge)](https://github.com/ritesh-kmr7/nova-voice-assistant/fork)
+[![GitHub Stars](https://img.shields.io/github/stars/ritesh-kmr7/nova-voice-assistant?style=for-the-badge)](https://github.com/rahool-oo7/nova-voice-assistant/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/ritesh-kmr7/nova-voice-assistant?style=for-the-badge)](https://github.com/rahool-oo7/nova-voice-assistant/fork)
 
 </div>
 
@@ -50,7 +50,7 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone git@github.com:ritesh-kmr7/nova-voice-assistant.git
+git clone git@github.com:rahool-oo7/nova-voice-assistant.git
 cd nova-voice-assistant
 ```
 
@@ -125,4 +125,4 @@ Ritesh Kumar
 
 📫 Email: riteshwork.work@gmail.com
 
-<div align="center"> Made with ❤️ using Python · Voice is the Future </div> ```
+<div align="center"> Made with ❤️ using Python · Voice is the Future </div> 
