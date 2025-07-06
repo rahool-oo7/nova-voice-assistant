@@ -17,7 +17,7 @@
 ## ✨ Features
 
 🔹 Wake Word Activation: `"Nova"`
-🔹 Voice-controlled: Open websites, play music, ask for time/date  
+🔹 Voice-controlled: Open websites, play music, ask for time/date
 🔹 📚 Wikipedia Search  
 🔹 😂 Tells random jokes  
 🔹 🎧 YouTube Music Playback  
