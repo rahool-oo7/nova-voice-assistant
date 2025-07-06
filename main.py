@@ -19,7 +19,7 @@ import time                              # To use delay (in printing mostly)
 # 🎤 INITIALIZATIONS
 # =========================
 r = sr.Recognizer()                      # Create recognizer instance
-engine = pyttsx3.init()                  # Initialize TTS engine
+engine = pyttsx3.init()                  # Initialize TTS (text-to-speech) engine
 
 # =========================
 # 🗣️ TEXT-TO-SPEECH FUNCTION
