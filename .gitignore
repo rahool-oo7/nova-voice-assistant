@@ -1,0 +1,19 @@
+# Bytecode
+__pycache__/
+*.py[cod]
+
+# Logs
+*.log
+
+# OS/macOS
+.DS_Store
+
+# Virtual Envs
+.env
+.venv/
+env/
+venv/
+
+# IDEs
+.vscode/
+.idea/
