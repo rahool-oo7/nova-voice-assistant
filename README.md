@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🚀 NOVA - Your Personal Voice Assistant
-<img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="150" alt="Animated AI Logo"/>
+<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="150" alt="Nova Voice Assistant"/>
 
 
 ### 🔊 Speak. Understand. Execute. All in One Voice.
