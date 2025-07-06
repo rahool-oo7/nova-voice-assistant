@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🚀 NOVA - Your Personal Voice Assistant
-<img src="https://img.icons8.com/clouds/500/000000/artificial-intelligence.png" width="150"/>
+<img src="https://img.icons8.com/clouds/500/000000/artificial-intelligence.png(https://www.istockphoto.com/illustrations/virtual-assistant)" width="150"/>
 
 ### 🔊 Speak. Understand. Execute. All in One Voice.
 
